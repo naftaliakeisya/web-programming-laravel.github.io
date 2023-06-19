@@ -14,8 +14,27 @@
 
 Project web app ini menggunakan Laravel dan PHP dengan beberapa fitur di dalamnya:
 
-- Fitur Login User.
+- Fitur Login & Logout User.
+- Fitur Filter/Search Data.
 - Operasi CRUD data User.
 - Operasi CRUD data Mahasiswa
 
 Berikut link untuk mengakses web app: https://mahasiswaukdw00.000webhostapp.com/login 
+
+Halaman Login
+![image](https://github.com/naftaliakeisya/web-programming-laravel.github.io/assets/107315843/757211a4-4ebd-46bc-947c-84d00e9e5eb1) 
+
+Halaman Data Mahasiswa
+![image](https://github.com/naftaliakeisya/web-programming-laravel.github.io/assets/107315843/9d9a4918-e3de-4035-92f5-ac54455264ca)
+
+Halaman Form Data Mahasiswa Baru
+![image](https://github.com/naftaliakeisya/web-programming-laravel.github.io/assets/107315843/f2e4d14d-1317-4c16-9d13-8851a1e577a4) 
+
+Halaman Data User
+![image](https://github.com/naftaliakeisya/web-programming-laravel.github.io/assets/107315843/32e10a6f-5907-499f-9e5b-ea002fc7216b) 
+
+Halaman Form Tambah Data User Baru
+![image](https://github.com/naftaliakeisya/web-programming-laravel.github.io/assets/107315843/ad2bb109-0375-4ff7-b209-070bd7eb0371)
+
+
+
